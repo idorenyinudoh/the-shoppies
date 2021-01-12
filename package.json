@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/idorenyinudoh/the-shoppies/issues"
   },
-  "homepage": "https://github.com/idorenyinudoh/the-shoppies#readme"
+  "homepage": "https://github.com/idorenyinudoh/the-shoppies#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.0"
+  }
 }
