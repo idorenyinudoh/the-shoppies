@@ -4,7 +4,7 @@
   "description": "an app to help manage Shopify's movie nominations for the upcoming Shoppies",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodemon index.js"
   },
   "repository": {
     "type": "git",
