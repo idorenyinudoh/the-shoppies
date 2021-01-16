@@ -4,7 +4,8 @@
   "description": "an app to help manage Shopify's movie nominations for the upcoming Shoppies",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
